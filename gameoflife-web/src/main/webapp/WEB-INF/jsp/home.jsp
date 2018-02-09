@@ -85,7 +85,7 @@
             the next generation.
         </li>
         <li>Any dead cell with exactly three live neighbours becomes a
-            live cell.
+            live cell mukul.
         </li>
     </ul>
     </p>
